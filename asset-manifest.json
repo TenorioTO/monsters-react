@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monsters-rolodex/static/css/main.976edbfc.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.9da5da07.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.9da5da07.chunk.js.map",
-    "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.ff038b7c.js",
-    "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.ff038b7c.js.map",
-    "static/js/2.0d232ef2.chunk.js": "/monsters-rolodex/static/js/2.0d232ef2.chunk.js",
-    "static/js/2.0d232ef2.chunk.js.map": "/monsters-rolodex/static/js/2.0d232ef2.chunk.js.map",
-    "index.html": "/monsters-rolodex/index.html",
-    "precache-manifest.96d622649bad65780b99d6b39b3b1d88.js": "/monsters-rolodex/precache-manifest.96d622649bad65780b99d6b39b3b1d88.js",
-    "service-worker.js": "/monsters-rolodex/service-worker.js",
-    "static/css/main.976edbfc.chunk.css.map": "/monsters-rolodex/static/css/main.976edbfc.chunk.css.map",
-    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/monsters-rolodex/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-react/static/css/main.976edbfc.chunk.css",
+    "main.js": "/monsters-react/static/js/main.9fe7e12b.chunk.js",
+    "main.js.map": "/monsters-react/static/js/main.9fe7e12b.chunk.js.map",
+    "runtime-main.js": "/monsters-react/static/js/runtime-main.55c36f79.js",
+    "runtime-main.js.map": "/monsters-react/static/js/runtime-main.55c36f79.js.map",
+    "static/js/2.0d232ef2.chunk.js": "/monsters-react/static/js/2.0d232ef2.chunk.js",
+    "static/js/2.0d232ef2.chunk.js.map": "/monsters-react/static/js/2.0d232ef2.chunk.js.map",
+    "index.html": "/monsters-react/index.html",
+    "precache-manifest.7e504e3fcdc9196e45b21062a5e1eb42.js": "/monsters-react/precache-manifest.7e504e3fcdc9196e45b21062a5e1eb42.js",
+    "service-worker.js": "/monsters-react/service-worker.js",
+    "static/css/main.976edbfc.chunk.css.map": "/monsters-react/static/css/main.976edbfc.chunk.css.map",
+    "static/js/2.0d232ef2.chunk.js.LICENSE.txt": "/monsters-react/static/js/2.0d232ef2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff038b7c.js",
+    "static/js/runtime-main.55c36f79.js",
     "static/js/2.0d232ef2.chunk.js",
     "static/css/main.976edbfc.chunk.css",
-    "static/js/main.9da5da07.chunk.js"
+    "static/js/main.9fe7e12b.chunk.js"
   ]
 }
